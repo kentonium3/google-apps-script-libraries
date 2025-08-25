@@ -84,7 +84,7 @@ These libraries are developed through **real-world problem solving**, not theore
 
 ## 📊 Current Applications
 
-### Rise Tracker (Production)
+### Rise Tracker (Production prototype)
 - **Purpose:** Daily 5AM wake-up habit tracking
 - **Email Threading:** ✅ Deployed and working
 - **Recipients:** Google Group with external replies
