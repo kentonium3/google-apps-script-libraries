@@ -1,4 +1,3 @@
-# google-apps-script-libraries
 # Google Apps Script Libraries
 
 A collection of proven, production-ready utility libraries for Google Apps Script applications, developed through real-world automation projects.
